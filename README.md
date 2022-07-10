@@ -24,3 +24,8 @@ yarn add jest @types/jest @babel/core @babel/preset-env @babel/preset-react babe
 ```bash
 yarn add styled-components
 ```
+
+## Libs complementares
+```bash
+yarn add prop-types
+```
