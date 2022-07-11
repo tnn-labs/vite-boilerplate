@@ -6,7 +6,7 @@ import { App } from './templates/App';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <MyThemeProvider>
-      <App />
+      <App>Hello</App>
     </MyThemeProvider>
   </React.StrictMode>,
 );
